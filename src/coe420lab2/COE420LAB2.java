@@ -15,6 +15,10 @@ public class COE420LAB2 {
     {
         System.out.println("Feature A added ");
     }
+    public static void addFeatureC()
+    {
+        System.out.println("Feature C added ");
+    }
     /**
      * @param args the command line arguments
      */
@@ -22,5 +26,6 @@ public class COE420LAB2 {
         // TODO code application logic here
         addFeatureA();
     }
+    
     
 }
